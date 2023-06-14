@@ -29,8 +29,5 @@
   "dependencies": {
     "core-js": "^3.30.2"
   },
-  "rules": {
-    "import/prefer-default-export": "off"
-  },
   "description": ""
 }
