@@ -1,4 +1,4 @@
-import { health } from '../health';
+import health from '../health';
 
 test('test error', () => {
   const person = { name: 'Маг', health: 102 };

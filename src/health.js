@@ -1,4 +1,4 @@
-export function health(person) {
+export default function health(person) {
   if (person.health > 100) {
     return 'Error, health cannot be more than 100';
   }
